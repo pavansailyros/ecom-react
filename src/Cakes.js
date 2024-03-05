@@ -6,37 +6,37 @@ export default function Cakes() {
             name:" Chocolate Cake",
             description: "Melting Chocolate Cake",
             price:599,
-            src:'/Image/img1.jpg',
+            src:'./pictures/img1.jpg',
         },
         {
             name:"vanilla cake",
             description: "Fresh vanilla cake ",
             price:499,
-           src:'./Image/img2.jpg',
+           src:'./pictures/img2.jpg',
         },
         {
             name:"Rainbow cake",
             description: "fresh Rain bow cake",
             price:499,
-            src:'./Image/img3.jpg'
+            src:'./pictures/img3.jpg'
         },
         {
             name:"White Forest cake",
             description: "Eggless white forest cake",
             price:599,
-            src:'./Image/img4.jpg'
+            src:'./pictures/img4.jpg'
         },
         {
             name:"Pink cake",
             description: "80 Rose Pink Strawberry",
             price:599,
-            src:'./Image/img5.jpg'
+            src:'./pictures/img5.jpg'
         },
         {
             name:"Black Forest",
             description: " Fresh Black Forest",
             price:699,
-            src:'./Image/img6.jpg'
+            src:'./pictures/img6.jpg'
         }
     ];
 
