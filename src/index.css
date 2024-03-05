@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,45 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+
+.header{
+  color:palevioletred;
+  text-align: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+.Main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 800px;
+  height: 700px;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+
+.Cakes{
+  height: 200px; 
+            width: 200px;
+            padding: 20px;
+            margin: 10px;
+            align-items: center;
+            text-align: center;
+            display: inline-flex;
+            flex-direction: column;
+            box-shadow:black;
+}
+
+button{
+  color:whitesmoke;
+  background-color: black;
+  border-radius: 3px;
+
 }
