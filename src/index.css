@@ -46,6 +46,17 @@ code {
             box-shadow:black;
 }
 
+
+.footer {
+  background-color:rgb(229, 160, 160);
+  color:red;
+  padding: 20px;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 20px;
+
+}
+
 button{
   color:whitesmoke;
   background-color: black;
